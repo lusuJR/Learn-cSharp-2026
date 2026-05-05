@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-2-Class-Instances",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-3-Struct-Instances", "Example-3-Struct-Instances\Example-3-Struct-Instances.csproj", "{C3EC0693-0F5A-49CF-83E0-013B4825525F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-HelloWorld", "Example-0-HelloWorld\Example-0-HelloWorld.csproj", "{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C3EC0693-0F5A-49CF-83E0-013B4825525F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3EC0693-0F5A-49CF-83E0-013B4825525F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3EC0693-0F5A-49CF-83E0-013B4825525F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
