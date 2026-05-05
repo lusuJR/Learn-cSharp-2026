@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-If-Else", "Exampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CsharpSwitch", "Example-0-CsharpSwitch\Example-0-CsharpSwitch.csproj", "{89C0F844-4A98-4704-9D87-2C4B9A970C75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CSharpWhileLoop", "Example-0-CSharpWhileLoop\Example-0-CSharpWhileLoop.csproj", "{9DCA2DA7-DD97-4C7F-BC60-E99E28E86332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{89C0F844-4A98-4704-9D87-2C4B9A970C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C0F844-4A98-4704-9D87-2C4B9A970C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89C0F844-4A98-4704-9D87-2C4B9A970C75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCA2DA7-DD97-4C7F-BC60-E99E28E86332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCA2DA7-DD97-4C7F-BC60-E99E28E86332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCA2DA7-DD97-4C7F-BC60-E99E28E86332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCA2DA7-DD97-4C7F-BC60-E99E28E86332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
