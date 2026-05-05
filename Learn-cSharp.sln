@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CsharpMath", "Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Strings", "Example-0-Strings\Example-0-Strings.csproj", "{5A53B830-B94A-4D3D-B196-1B7728A300F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CSharpBooleans", "Example-0-CSharpBooleans\Example-0-CSharpBooleans.csproj", "{D69EE521-2CAD-4103-9445-4FE522368C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69EE521-2CAD-4103-9445-4FE522368C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69EE521-2CAD-4103-9445-4FE522368C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69EE521-2CAD-4103-9445-4FE522368C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69EE521-2CAD-4103-9445-4FE522368C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
