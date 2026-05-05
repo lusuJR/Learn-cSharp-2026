@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Variables", "Exam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Type-Casting", "Example-0-Type-Casting\Example-0-Type-Casting.csproj", "{C8C8832B-FE52-4372-8998-EC939D36DC69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-UserInput", "Example-0-UserInput\Example-0-UserInput.csproj", "{E732796D-94F2-4C44-8AF8-C58F73E82489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E732796D-94F2-4C44-8AF8-C58F73E82489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E732796D-94F2-4C44-8AF8-C58F73E82489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E732796D-94F2-4C44-8AF8-C58F73E82489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E732796D-94F2-4C44-8AF8-C58F73E82489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
