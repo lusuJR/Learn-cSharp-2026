@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Operators", "Exam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CsharpMath", "Example-0-CsharpMath\Example-0-CsharpMath.csproj", "{16409F1A-965E-4203-ACE4-71FC79E83F4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Strings", "Example-0-Strings\Example-0-Strings.csproj", "{5A53B830-B94A-4D3D-B196-1B7728A300F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{16409F1A-965E-4203-ACE4-71FC79E83F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16409F1A-965E-4203-ACE4-71FC79E83F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16409F1A-965E-4203-ACE4-71FC79E83F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A53B830-B94A-4D3D-B196-1B7728A300F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
