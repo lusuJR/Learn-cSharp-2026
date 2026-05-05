@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-3-Struct-Instances"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-HelloWorld", "Example-0-HelloWorld\Example-0-HelloWorld.csproj", "{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Variables", "Example-0-Variables\Example-0-Variables.csproj", "{845F1754-D174-446F-AF47-999650EE3D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-Type-Casting", "Example-0-Type-Casting\Example-0-Type-Casting.csproj", "{C8C8832B-FE52-4372-8998-EC939D36DC69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F25B8F3-C6D8-4A25-A68D-2D6B6957ADA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{845F1754-D174-446F-AF47-999650EE3D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845F1754-D174-446F-AF47-999650EE3D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845F1754-D174-446F-AF47-999650EE3D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845F1754-D174-446F-AF47-999650EE3D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C8832B-FE52-4372-8998-EC939D36DC69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
