@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CSharpForLoop", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CSharpBreakandContinue", "Example-0-CSharpBreakandContinue\Example-0-CSharpBreakandContinue.csproj", "{6C56D4AF-65EC-4379-95E1-FBAEE9AD9EAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-0-CSharpArrays", "Example-0-CSharpArrays\Example-0-CSharpArrays.csproj", "{A493BA6D-C051-4992-ACEF-578D5DE3F943}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{6C56D4AF-65EC-4379-95E1-FBAEE9AD9EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C56D4AF-65EC-4379-95E1-FBAEE9AD9EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C56D4AF-65EC-4379-95E1-FBAEE9AD9EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A493BA6D-C051-4992-ACEF-578D5DE3F943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A493BA6D-C051-4992-ACEF-578D5DE3F943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A493BA6D-C051-4992-ACEF-578D5DE3F943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A493BA6D-C051-4992-ACEF-578D5DE3F943}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
